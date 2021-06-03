@@ -6,8 +6,7 @@
 
 -   [About the Project](#about-the-project)
 -   [Changes in code](#changes-in-code)
--   [Issues encountered](#issues-encountered)
--   [Members](#members)
+
 
 ##  About the Project
 
@@ -60,34 +59,4 @@
 ![](MyRoboticBody.jpg ) 
 
 
-##  Issues encountered  
-  
-* After adding the camera keys, we encountered a weird movement and the body disappeared after a couple of rotations. The problem solved by revising the code and making sure we were working on the correct view and the camera-related functions were correctly implemented. 
 
-* One of our friends "Youssef Mohamed" suggested creating a default case for the camera angles and link it with a keyboard key, it was a good idea and now key '0' is responsible for resetting the view angle. 
-
-* Moreover, We Struggled a bit to understand and visualize the whole body with its rotations correctly.
-
-
-
-##  Members
-
-* Name: **Hassan Fathi Shelkami**
-Sec: 1  |   BN: 28
-
-* Name: **Ammar Elsaeed Mohamed**
-Sec: 1  |   BN: 51
-
-* Name: **Mostafa Mohamed Essam**
-Sec: 2  |   BN: 27
-
-* Name: **Mostafa Mahmoud Abbas**
-Sec: 2  |   BN: 28
-
-* Name: **Yasser Nasser Ahmed**
-Sec: 2  |   BN: 45
-
-
-
-# Robotic-Body
-# Robotic-Body
